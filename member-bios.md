@@ -9,3 +9,5 @@ Brady self-assesses that he is pretty strong with JavaScript, is okay with HTML,
 ## Ben
 
 ## Elizabeth
+
+Elizabeth has a fundamental understanding of CSS, HTML, and Javascript. Elizabeth's strengths include communication, detail oriented, and organization.
